@@ -3,14 +3,23 @@
 ## JavaScript Basics
 
 [How to prepare front-end web development interview - David Shriff](https://www.linkedin.com/pulse/preparing-front-end-web-development-interview-2017-david-shariff/)
+
 [Lexical scope and closures](https://javascript.info/closure)
+
 [Hoisting, function & block scoping and function expressions & declarations](https://javascript.info/var)
+
 [call, bind, apply and lexical this - Binding](https://javascript.info/bind)
+
 [Object prototypes, constructors and mixins](https://javascript.info/mixins)
+
 [Composition and high order functions](https://javascript.info/slots-composition)
+
 [Event delegation and bubbling]()
+
 [Type coercion using typeof, instanceof and Object.prototype.toString]()
+
 [Callback, Promise, async await, generators]()
+
 
 ## CSS
 Responsive design
@@ -35,7 +44,8 @@ Date and Time
 
 ## Frontend System Design
 MVC vs MVVM vs MVP
-server side rendering vs client side rendering vs universal rendering
+[server side rendering vs client side rendering vs universal rendering](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
+
 state management - for example routes
 asynchronous workflow
 Cross-browser compatibility
