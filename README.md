@@ -15,6 +15,7 @@
 [Composition and high order functions](https://javascript.info/slots-composition)
 
 [Event delegation and bubbling]()
+[inline event handlers(deprecated), Event handler properties, addEventListener()](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 
 [Type coercion using typeof, instanceof and Object.prototype.toString]()
 
